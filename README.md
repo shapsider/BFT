@@ -30,4 +30,4 @@ Conference uploads follow https://wiki.eventhosts.cc/en/reference/posteruploads:
 
 The project page provides both upload images, an editable PPTX, and a print PDF. It does not submit them to the NeurIPS account.
 
-The current poster connects the problem and uncertainty diagnostics to motivation, dual-scale BFT, and experimental results. Native evidence includes four editable charts and two editable tables. Design guidance was informed by https://github.com/ZLHe0/Skill-ML-Conference-Poster-Creation and https://github.com/skyllwt/AutoSci/blob/main/i18n/en/skills/poster/SKILL.md.
+The current poster connects the problem and uncertainty diagnostics to motivation, dual-scale BFT, and experimental results. The method is explained through a plain-language flow diagram, three text steps, and a qualitative context comparison, with no displayed equations. Native evidence includes four editable charts and two editable tables. Design guidance was informed by https://github.com/ZLHe0/Skill-ML-Conference-Poster-Creation and https://github.com/skyllwt/AutoSci/blob/main/i18n/en/skills/poster/SKILL.md.
