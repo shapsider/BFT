@@ -21,7 +21,7 @@ The numerical summary uses the three-decimal VCWorld values from the supplied ca
 
 ## Poster reference
 
-The editable poster adapts the official `pptTemplate.pptx` supplied by the author from https://drive.google.com/drive/u/1/folders/16tSJGJryd7NgQCBblaKxTfXLZXDIJJrt. It retains the 36 × 24 inch landscape canvas (3:2), three-column grid, Arial typography, and original NeurIPS conference logo. Institutional logos are limited to Tencent and Tencent AI for Life Sciences Lab.
+The editable poster adapts the official `pptTemplate.pptx` supplied by the author from https://drive.google.com/drive/u/1/folders/16tSJGJryd7NgQCBblaKxTfXLZXDIJJrt. It retains the 36 × 24 inch landscape canvas (3:2), three-column layout, Arial typography, and original NeurIPS conference logo. Institutional logos are limited to Tencent and Tencent AI for Life Sciences Lab.
 
 Conference uploads follow https://wiki.eventhosts.cc/en/reference/posteruploads:
 
@@ -29,3 +29,5 @@ Conference uploads follow https://wiki.eventhosts.cc/en/reference/posteruploads:
 - Paper thumbnail: PNG, maximum 320 × 256 pixels and 5 MB. Delivered at 320 × 256 from the BFT gene-embedding UMAP in Figure 4a, with an opaque white background.
 
 The project page provides both upload images, an editable PPTX, and a print PDF. It does not submit them to the NeurIPS account.
+
+The current poster connects the problem and uncertainty diagnostics to motivation, dual-scale BFT, and experimental results. Native evidence includes four editable charts and two editable tables. Design guidance was informed by https://github.com/ZLHe0/Skill-ML-Conference-Poster-Creation and https://github.com/skyllwt/AutoSci/blob/main/i18n/en/skills/poster/SKILL.md.
