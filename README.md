@@ -21,4 +21,11 @@ The numerical summary uses the three-decimal VCWorld values from the supplied ca
 
 ## Poster reference
 
-The editable poster uses a 48 × 36 inch landscape canvas, inspired by the NeurIPS 2022 DynamicD PowerPoint example shared at https://github.com/dave21-py/cvpr_templates. Its white background, blue headings and two-column reading order informed the poster. Institutional logos are limited to Tencent and Tencent AI for Life Sciences Lab.
+The editable poster adapts the official `pptTemplate.pptx` supplied by the author from https://drive.google.com/drive/u/1/folders/16tSJGJryd7NgQCBblaKxTfXLZXDIJJrt. It retains the 36 × 24 inch landscape canvas (3:2), three-column grid, Arial typography, and original NeurIPS conference logo. Institutional logos are limited to Tencent and Tencent AI for Life Sciences Lab.
+
+Conference uploads follow https://wiki.eventhosts.cc/en/reference/posteruploads:
+
+- Entire poster: PNG, landscape, maximum 5120 × 2880 pixels and 10 MB. Delivered at 4320 × 2880 with an opaque white background.
+- Paper thumbnail: PNG, maximum 320 × 256 pixels and 5 MB. Delivered at 320 × 256 from the BFT gene-embedding UMAP in Figure 4a, with an opaque white background.
+
+The project page provides both upload images, an editable PPTX, and a print PDF. It does not submit them to the NeurIPS account.
